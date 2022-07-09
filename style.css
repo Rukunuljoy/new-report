@@ -2,6 +2,24 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+.section1{
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    text-align: center;
+    padding: 150px 120px;
+    color: white;
+}
+.option{
+    text-decoration: none;
+    font-size: 25px;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    color: white;
+    font-weight: 700;
+}
 .half-width{
     width: 80%;
     margin: 0;
